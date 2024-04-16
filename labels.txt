@@ -1,0 +1,5 @@
+0 Feliz
+1 Triste
+2 Nojao
+3 Serio
+4 Preocupado
